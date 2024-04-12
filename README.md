@@ -6,6 +6,7 @@ Welcome to the DEXTERMNESH Game Store! This project is a simple website where us
 
 - [Description](#description)
 - [Features](#features)
+- [Stream Live](#Live)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -20,6 +21,9 @@ The DEXTERMNESH Game Store is a frontend web application built using HTML, CSS, 
 - Browse games by category
 - Search for games by name
 - Access details of each game, including description and platform
+
+- ## Live
+- https://levismunene01.github.io/My-Phase01-Project-/
 
 ## Installation
 
