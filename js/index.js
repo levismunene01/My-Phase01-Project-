@@ -8,10 +8,11 @@ document.addEventListener("DOMContentLoaded", () => {
         e.preventDefault();
         const input = document.querySelector('#search');
         
+        // If search input is empty, fetch all games
         if(input.value) {
             fetchGames(input.value);
         } else {
-            fetchGames(); // If search input is empty, fetch all games
+            fetchGames(); 
         }
     }); 
 
