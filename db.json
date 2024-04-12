@@ -407,7 +407,42 @@
           "games_sold": 6000,
           "description": "Doom Eternal is a first-person shooter video game developed by id Software and published by Bethesda Softworks. The sequel to Doom (2016), and the fifth main game in the Doom series, it was released on March 20, 2020, for",
           "poster": "https://i.pinimg.com/236x/1c/cf/9c/1ccf9cf7f30f96aa14536ec022680bea.jpg"
-      }
+      },
+      {
+        "id": "38",
+        "title": "Need for Speed Payback",
+        "developers": "Ghost Games",
+        "publishers": "Electronic Arts",
+        "price": 2,
+        "category": "Racing",
+        "games_sold": 10,
+        "description": "Need for Speed Payback is a racing video game developed by Ghost Games and published by Electronic Arts. It is the twenty-third installment in the Need for Speed series. The game was revealed with a trailer released on June 2, 2017. It was released worldwide on November 10, 2017.",
+        "poster": "https://i.pinimg.com/236x/cf/db/45/cfdb458b0f4e5ec157da2a0f4787cc66.jpg"
+        },
+        {
+          "id": "39",
+          "title": "Watch Dogs Series",
+          "developers": "Ubisoft Montreal (Watch Dogs, Watch Dogs 2), Ubisoft Toronto (Watch Dogs: Legion)",
+          "publishers": "Ubisoft",
+          "price": 2,
+          "category": "Action-Adventure, Open World, Stealth",
+          "games_sold": 25,
+          "description": "The Watch Dogs series is developed by Ubisoft Montreal and Ubisoft Toronto, and published by Ubisoft. It comprises three main installments, each offering a unique open-world experience with elements of action-adventure and stealth gameplay.",
+          "poster": "https://i.pinimg.com/564x/d8/e6/2b/d8e62bb2e102253419f6c79e354db42b.jpg"
+        },
+        {
+          "id": "40",
+          "title": "Outlast Trinity",
+          "developers": "Red Barrels",
+          "publishers": "Red Barrels",
+          "price": 25,
+          "category": "Survival Horror",
+          "games_sold": 8,
+          "description": "Outlast Trinity is a collection that includes the first Outlast game along with its Whistleblower DLC, as well as Outlast 2. Developed and published by Red Barrels, these games offer intense survival horror experiences, immersing players in terrifying environments with no means to fight back, relying solely on stealth and evasion.",
+          "poster": "https://i.pinimg.com/564x/b3/6f/8e/b36f8ec755a78350232b71954adf0f58.jpg"
+        }
+        
+                                 
   ]
   
      
